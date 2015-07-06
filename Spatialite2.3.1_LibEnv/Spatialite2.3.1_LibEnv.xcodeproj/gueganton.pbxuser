@@ -1,0 +1,445 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* Spatialite2_3_1_LibEnvAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{2071, 823}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Spatialite2.3.1_LibEnv */ = {
+		activeExec = 0;
+		executables = (
+			34EF183512F4A9E500260F90 /* Spatialite2.3.1_LibEnv */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* Spatialite2_3_1_LibEnvViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 871}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{120, 773}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 34EF183512F4A9E500260F90 /* Spatialite2.3.1_LibEnv */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 34EF1EFE12F4BE9A00260F90 /* GEOS_3.1.1 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Spatialite2.3.1_LibEnv */,
+		);
+		codeSenseManager = 34EF184112F4A9F400260F90 /* Code sense */;
+		executables = (
+			34EF183512F4A9E500260F90 /* Spatialite2.3.1_LibEnv */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					332,
+					20,
+					231,
+					231,
+					161,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					732.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_ObjectSize_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					845,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					805,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 337764853;
+			PBXWorkspaceStateSaveDate = 337764853;
+		};
+		perUserProjectItems = {
+			343694281421459900652EA5 /* PBXTextBookmark */ = 343694281421459900652EA5 /* PBXTextBookmark */;
+			3436946B14214BA400652EA5 /* PBXTextBookmark */ = 3436946B14214BA400652EA5 /* PBXTextBookmark */;
+			344018FD12F7557E002BBD26 /* PBXTextBookmark */ = 344018FD12F7557E002BBD26 /* PBXTextBookmark */;
+			3440191B12F75A5B002BBD26 /* PBXTextBookmark */ = 3440191B12F75A5B002BBD26 /* PBXTextBookmark */;
+			34BE12941421FD8700D4D01F /* PBXTextBookmark */ = 34BE12941421FD8700D4D01F /* PBXTextBookmark */;
+			34CEC223130EDE4F00EAA415 /* PBXTextBookmark */ = 34CEC223130EDE4F00EAA415 /* PBXTextBookmark */;
+			34EF206D12F4C74F00260F90 /* PBXTextBookmark */ = 34EF206D12F4C74F00260F90 /* PBXTextBookmark */;
+			34EF206E12F4C74F00260F90 /* PBXTextBookmark */ = 34EF206E12F4C74F00260F90 /* PBXTextBookmark */;
+			34EF206F12F4C74F00260F90 /* PBXTextBookmark */ = 34EF206F12F4C74F00260F90 /* PBXTextBookmark */;
+			34EF207012F4C74F00260F90 /* PBXTextBookmark */ = 34EF207012F4C74F00260F90 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34EF184012F4A9F400260F90 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	343694281421459900652EA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF200812F4BF7700260F90 /* spatialite.c */;
+		name = "spatialite.c: 71";
+		rLen = 0;
+		rLoc = 2835;
+		rType = 0;
+		vrLen = 1161;
+		vrLoc = 9481;
+	};
+	3436946B14214BA400652EA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF1A4D12F4AD8800260F90 /* geos_c.cpp */;
+		name = "geos_c.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1026;
+		vrLoc = 784;
+	};
+	344018FD12F7557E002BBD26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Spatialite2_3_1_LibEnvViewController.m */;
+		name = "Spatialite2_3_1_LibEnvViewController.m: 12";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 120;
+	};
+	3440191B12F75A5B002BBD26 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Spatialite2_3_1_LibEnvAppDelegate.m */;
+		name = "Spatialite2_3_1_LibEnvAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 2071;
+	};
+	34BE12941421FD8700D4D01F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF1A4D12F4AD8800260F90 /* geos_c.cpp */;
+		name = "geos_c.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 1810;
+	};
+	34CEC223130EDE4F00EAA415 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF200912F4BF7700260F90 /* sqlite3.c */;
+		name = "sqlite3.c: 90618";
+		rLen = 19;
+		rLoc = 3188460;
+		rType = 0;
+		vrLen = 970;
+		vrLoc = 3189964;
+	};
+	34EF183512F4A9E500260F90 /* Spatialite2.3.1_LibEnv */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Spatialite2.3.1_LibEnv;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34EF184012F4A9F400260F90 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34EF184112F4A9F400260F90 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	34EF184312F4AA2A00260F90 /* aasincos.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 481}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 566}";
+		};
+	};
+	34EF184712F4AA2A00260F90 /* biveval.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 846}";
+		};
+	};
+	34EF185512F4AA2A00260F90 /* Makefile.am */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 988}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1070}";
+		};
+	};
+	34EF18E412F4AA2A00260F90 /* vector1.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 752}";
+		};
+	};
+	34EF199212F4AB7B00260F90 /* proj_config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 819}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1064}";
+		};
+	};
+	34EF19AA12F4ACEB00260F90 /* PROJ_4.6.1 */ = {
+		activeExec = 0;
+	};
+	34EF1A4D12F4AD8800260F90 /* geos_c.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 10023}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1810, 643}";
+		};
+	};
+	34EF1A5012F4AD8800260F90 /* geos_ts_c.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 51402}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1311}";
+		};
+	};
+	34EF1A8412F4AD9100260F90 /* LineString.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1185, 5317}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1543}";
+			sepNavWindowFrame = "{{15, 75}, {1244, 798}}";
+		};
+	};
+	34EF1A9012F4AD9100260F90 /* BasicPreparedGeometry.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1781}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1069}";
+		};
+	};
+	34EF1ADE12F4AD9100260F90 /* Makefile.in */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 7579}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1188}";
+		};
+	};
+	34EF1B1512F4AD9100260F90 /* AbstractPreparedPolygonContains.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1833}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 912}";
+		};
+	};
+	34EF1BC612F4AD9200260F90 /* SegmentString.inl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1526, 530}";
+		};
+	};
+	34EF1C2B12F4AD9200260F90 /* Makefile.in */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 6058}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1156}";
+		};
+	};
+	34EF1C9E12F4AD9200260F90 /* AbstractSTRtree.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 6500}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1038}";
+		};
+	};
+	34EF1CAB12F4AD9200260F90 /* inlines.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 897}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1404}";
+		};
+	};
+	34EF1CB112F4AD9200260F90 /* Makefile.in */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 6695}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1159}";
+		};
+	};
+	34EF1CB312F4AD9200260F90 /* StringTokenizer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1379, 1976}}";
+			sepNavSelRange = "{1651, 0}";
+			sepNavVisRange = "{1458, 398}";
+		};
+	};
+	34EF1D0512F4AD9200260F90 /* OverlayOp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 13299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1373}";
+		};
+	};
+	34EF1EFE12F4BE9A00260F90 /* GEOS_3.1.1 */ = {
+		activeExec = 0;
+	};
+	34EF200812F4BF7700260F90 /* spatialite.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 456222}}";
+			sepNavSelRange = "{2835, 0}";
+			sepNavVisRange = "{9481, 1161}";
+		};
+	};
+	34EF200912F4BF7700260F90 /* sqlite3.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1.36816e+06}}";
+			sepNavSelRange = "{3188460, 19}";
+			sepNavVisRange = "{3189964, 970}";
+		};
+	};
+	34EF201512F4C28B00260F90 /* SPATIALITE_2.3.1 */ = {
+		activeExec = 0;
+	};
+	34EF203812F4C3EC00260F90 /* SpatialiteTester.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 448}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 315}";
+		};
+	};
+	34EF203912F4C3EC00260F90 /* SpatialiteTester.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 1508}}";
+			sepNavSelRange = "{532, 0}";
+			sepNavVisRange = "{295, 817}";
+		};
+	};
+	34EF206D12F4C74F00260F90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF1ADE12F4AD9100260F90 /* Makefile.in */;
+		name = "Makefile.in: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1188;
+		vrLoc = 0;
+	};
+	34EF206E12F4C74F00260F90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF185512F4AA2A00260F90 /* Makefile.am */;
+		name = "Makefile.am: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 0;
+	};
+	34EF206F12F4C74F00260F90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF1A9012F4AD9100260F90 /* BasicPreparedGeometry.cpp */;
+		name = "BasicPreparedGeometry.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1069;
+		vrLoc = 0;
+	};
+	34EF207012F4C74F00260F90 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34EF184312F4AA2A00260F90 /* aasincos.c */;
+		name = "aasincos.c: 5";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 0;
+	};
+}
