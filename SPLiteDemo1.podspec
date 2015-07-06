@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint NPKSpatialite.podspec' to ensure this is a
+#  Be sure to run `pod spec lint SPLiteDemo1.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,12 +15,12 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NPKSpatialite"
+  s.name         = "SPLiteDemo1"
   s.version      = "0.0.1"
   s.summary      = ""
 
   s.description  = <<-DESC
-                   A longer description of NPKSpatialite in Markdown format.
+                   A longer description of SPLiteDemo1 in Markdown format.
 
                    * Think: Why did you write this? What is the focus? What does it do?
                    * CocoaPods will be using this to generate tags, and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "https://github.com/neerajneeruz/NPKSpatialite"
+  s.homepage     = "https://github.com/neerajneeruz/SPLiteDemo1"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/neerajneeruz/NPKSpatialite.git", :commit => "35ec4849b18b9a5694d45d8ccdeac4863e3c298b" }
+  s.source       = { :git => "https://github.com/neerajneeruz/SPLiteDemo1.git", :commit => "9b0ddb194774ae3b0b85f39494eb45609590f081" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

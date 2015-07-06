@@ -35,7 +35,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+    NSLog("dasd");
     
     // Override point for customization after application launch.
     SpatialiteTester* test= [[SpatialiteTester alloc] init];
